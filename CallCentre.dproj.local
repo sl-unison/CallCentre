@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.117,=D:\Construc\DelphiXE2\CallCentre\ClientClassesUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Construc\Delphi2010\CallCentre\DatCallTemplate.pas=D:\Construc\Delphi2010\CallCentre\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,=D:\Construc\DelphiXE2\CallCentre\ClientClassesUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.631,=D:\Construc\DelphiXE2\CallCentre\ClientClassesUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.469,D:\Construc\DelphiXE2\CallCentre\ClientClassesSrv.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.927,=D:\Construc\DelphiXE2\CallCentre\ClientModuleUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.459,=D:\Construc\DelphiXE2\CallCentre\ClientModuleUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.899,D:\Construc\DelphiXE2\CallCentre\ClientClassesSrv.pas=D:\Construc\DelphiXE2\CallCentre\ClientClassesUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.324,=D:\Construc\DelphiXE2\CallCentre\ClientModuleUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.674,D:\Construc\DelphiXE2\CallCentre\ClientClassesUnit1.pas=D:\Construc\DelphiXE2\CallCentre\ClientClassesSrv.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Construc\Delphi2010\CallCentre\S_Calles.dfm=D:\Construc\Delphi2010\CallCentre\Calles.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Construc\Delphi2010\CallCentre\RepUniGrid.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Construc\Delphi2010\CallCentre\DlgSendEmail.pas=D:\Construc\Delphi2010\CallCentre\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Construc\Delphi2010\CallCentre\DatReport.dfm=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Construc\Delphi2010\CallCentre\R_CallTemplates.dfm=D:\Construc\Delphi2010\CallCentre\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.372,D:\Construc\DelphiXE2\CallCentre\ClientModuleEmail.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.760,D:\Construc\DelphiXE2\CallCentre\ClientModuleEmail.dfm=D:\Construc\DelphiXE2\CallCentre\ClientModuleUnit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Construc\Delphi2010\CallCentre\Grants.dfm=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.760,D:\Construc\DelphiXE2\CallCentre\ClientModuleEmail.pas=D:\Construc\DelphiXE2\CallCentre\ClientModuleUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Construc\Delphi2010\CallCentre\Setups.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Construc\Delphi2010\CallCentre\Setups.dfm=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Construc\Delphi2010\CallCentre\DatReport.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Construc\Delphi2010\CallCentre\S_Calles.pas=D:\Construc\Delphi2010\CallCentre\Calles.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.800,D:\Construc\DelphiXE2\CallCentre\ClientModuleSrv.pas=D:\Construc\DelphiXE2\CallCentre\ClientModuleUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.751,D:\Construc\DelphiXE2\CallCentre\ClientClassesEmail.pas=D:\Construc\DelphiXE2\CallCentre\ClientClassesUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Construc\Delphi2010\CallCentre\R_CallTemplates.pas=D:\Construc\Delphi2010\CallCentre\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.685,D:\Construc\DelphiXE2\CallCentre\ClientModuleSrv.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,D:\Construc\DelphiXE2\CallCentre\ClientClassesEmail.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Construc\Delphi2010\CallCentre\RepUniGrid.dfm=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Construc\Delphi2010\CallCentre\DlgSendEmail.dfm=D:\Construc\Delphi2010\CallCentre\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Construc\Delphi2010\CallCentre\R_Reports.dfm=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.800,D:\Construc\DelphiXE2\CallCentre\ClientModuleSrv.dfm=D:\Construc\DelphiXE2\CallCentre\ClientModuleUnit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Construc\Delphi2010\CallCentre\Grants.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Construc\Delphi2010\CallCentre\R_Reports.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.306,D:\Construc\DelphiXE2\CallCentre\ClientModuleUnit1.dfm=D:\Construc\DelphiXE2\CallCentre\ClientModuleSrv.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.306,D:\Construc\DelphiXE2\CallCentre\ClientModuleUnit1.pas=D:\Construc\DelphiXE2\CallCentre\ClientModuleSrv.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Construc\Delphi2010\CallCentre\DatCallTemplate.dfm=D:\Construc\Delphi2010\CallCentre\Unit1.dfm</Transaction>
+    <Transaction>2015.02.09 13:54:37.344,D:\Construc\DelphiXE2\CallCentre\ClientModuleSrv.pas=</Transaction>
+    <Transaction>2015.02.09 13:54:42.501,D:\Construc\DelphiXE2\CallCentre\ClientClassesSrv.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
